@@ -1,0 +1,27 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="MasterFloor.Views.PartnersView"
+			 xmlns:vm="using:MasterFloor.ViewModels"
+			 x:DataType="vm:PartnersViewModel">
+
+	<StackPanel>
+		<ListBox ItemsSource="{Binding Partners}">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<TextBlock Text="{Binding Title}"/>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</StackPanel>
+	<!--<TextBlock Text="MultiBinding Text Color!" FontSize="24">
+		<MultiBinding>
+			<Binding Path="Value" ElementName="red" />
+			<Binding Path="Value" ElementName="green" />
+			<Binding Path="Value" ElementName="blue" />
+		</MultiBinding>
+	</TextBlock>-->
+	
+</UserControl>
