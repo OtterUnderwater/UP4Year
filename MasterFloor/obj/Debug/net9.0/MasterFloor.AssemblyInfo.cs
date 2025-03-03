@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterFloor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3801db000f38bbc6ab50a97aa9242091a4ea854")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9312de9378021c66d87e2b593dfe72aa9b2231e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterFloor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterFloor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
