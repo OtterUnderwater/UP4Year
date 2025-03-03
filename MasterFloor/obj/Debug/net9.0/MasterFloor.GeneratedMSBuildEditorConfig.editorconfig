@@ -23,20 +23,20 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MasterFloor
-build_property.ProjectDir = C:\Users\токареваэо\source\repos\MasterFloor\MasterFloor\
+build_property.ProjectDir = C:\Users\Aziraphale\Desktop\UP\MasterFloor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/токареваэо/source/repos/MasterFloor/MasterFloor/App.axaml]
+[C:/Users/Aziraphale/Desktop/UP/MasterFloor/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/токареваэо/source/repos/MasterFloor/MasterFloor/Styles/Style.axaml]
+[C:/Users/Aziraphale/Desktop/UP/MasterFloor/Styles/Style.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/токареваэо/source/repos/MasterFloor/MasterFloor/Views/MainWindow.axaml]
+[C:/Users/Aziraphale/Desktop/UP/MasterFloor/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/токареваэо/source/repos/MasterFloor/MasterFloor/Views/PartnersView.axaml]
+[C:/Users/Aziraphale/Desktop/UP/MasterFloor/Views/PartnersView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
