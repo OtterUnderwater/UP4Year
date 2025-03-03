@@ -1,0 +1,6 @@
+C:\Users\Aziraphale\Desktop\UP4Year\Calculation\bin\Debug\Calculation.dll
+C:\Users\Aziraphale\Desktop\UP4Year\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Aziraphale\Desktop\UP4Year\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+C:\Users\Aziraphale\Desktop\UP4Year\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Aziraphale\Desktop\UP4Year\Calculation\obj\Debug\Calculation.dll
+C:\Users\Aziraphale\Desktop\UP4Year\Calculation\obj\Debug\Calculation.pdb

@@ -11,17 +11,25 @@
 		<ListBox ItemsSource="{Binding Partners}">
 			<ListBox.ItemTemplate>
 				<DataTemplate>
-					<TextBlock Text="{Binding Title}"/>
+					<Border BorderThickness="1" BorderBrush="Black"
+							CornerRadius="5" Padding="10">
+						<StackPanel>
+							<TextBlock Classes="H1">
+								<TextBlock.Text>
+									<MultiBinding StringFormat="{}{0} | {1}">
+										<Binding Path="IdTypeCompanyNavigation.Title"/>
+										<Binding Path="Title"/>
+									</MultiBinding>
+								</TextBlock.Text>
+							</TextBlock>
+							<TextBlock Text="{Binding DirectorFio}"/>
+							<TextBlock Text="{Binding Phone, TargetNullValue='Телефон не указан'}"/>
+							<TextBlock Text="{Binding Rating, StringFormat='Рейтинг: {0}', TargetNullValue='Рейтинг отсутствует'}"/>
+							<!--<TextBlock Text="{Binding Discount, StringFormat='{}{0}%'}"/>-->
+						</StackPanel>
+					</Border>
 				</DataTemplate>
 			</ListBox.ItemTemplate>
 		</ListBox>
 	</StackPanel>
-	<!--<TextBlock Text="MultiBinding Text Color!" FontSize="24">
-		<MultiBinding>
-			<Binding Path="Value" ElementName="red" />
-			<Binding Path="Value" ElementName="green" />
-			<Binding Path="Value" ElementName="blue" />
-		</MultiBinding>
-	</TextBlock>-->
-	
 </UserControl>

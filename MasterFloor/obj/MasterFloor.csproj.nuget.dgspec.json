@@ -1,17 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aziraphale\\Desktop\\UP\\MasterFloor\\MasterFloor.csproj": {}
+    "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\MasterFloor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aziraphale\\Desktop\\UP\\MasterFloor\\MasterFloor.csproj": {
+    "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calculation.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calculation.csproj",
+        "projectName": "Calculation",
+        "projectPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calculation.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\MasterFloor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aziraphale\\Desktop\\UP\\MasterFloor\\MasterFloor.csproj",
+        "projectUniqueName": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\MasterFloor.csproj",
         "projectName": "MasterFloor",
-        "projectPath": "C:\\Users\\Aziraphale\\Desktop\\UP\\MasterFloor\\MasterFloor.csproj",
+        "projectPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\MasterFloor.csproj",
         "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aziraphale\\Desktop\\UP\\MasterFloor\\obj\\",
+        "outputPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
@@ -32,7 +48,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calculation.csproj": {
+                "projectPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calculation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

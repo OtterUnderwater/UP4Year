@@ -1,29 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\",
+  "WorkspaceRootPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\masterfloor\\masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\masterfloor\\masterfloor\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\masterfloor\\masterfloor\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\masterfloor\\masterfloor\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\masterfloor\\masterfloor\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\masterfloor\\masterfloor\\viewmodels\\partnersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\viewmodels\\partnersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\partnersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,82 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "MasterFloor\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Title": "PartnersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "RelativeToolTip": "MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:20:16.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\Views\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "MasterFloor\\Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\Views\\MainWindow.axaml",
-              "RelativeToolTip": "MasterFloor\\Views\\MainWindow.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-01T13:20:05.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "MasterFloor\\ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:20:01.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Partner.cs",
-              "DocumentMoniker": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\Models\\Partner.cs",
-              "RelativeDocumentMoniker": "MasterFloor\\Models\\Partner.cs",
-              "ToolTip": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\Models\\Partner.cs",
-              "RelativeToolTip": "MasterFloor\\Models\\Partner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:19:28.363Z",
+              "WhenOpened": "2025-03-03T13:46:10.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PartnersView.axaml",
-              "DocumentMoniker": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\Views\\PartnersView.axaml",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\PartnersView.axaml",
               "RelativeDocumentMoniker": "MasterFloor\\Views\\PartnersView.axaml",
-              "ToolTip": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\Views\\PartnersView.axaml",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\PartnersView.axaml",
               "RelativeToolTip": "MasterFloor\\Views\\PartnersView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-01T13:19:22.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PartnersViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\ViewModels\\PartnersViewModel.cs",
-              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\PartnersViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0442\u043E\u043A\u0430\u0440\u0435\u0432\u0430\u044D\u043E\\source\\repos\\MasterFloor\\MasterFloor\\ViewModels\\PartnersViewModel.cs",
-              "RelativeToolTip": "MasterFloor\\ViewModels\\PartnersViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:07:40.036Z",
+              "WhenOpened": "2025-03-03T13:27:07.519Z",
               "EditorCaption": ""
             }
           ]

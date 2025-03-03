@@ -13,6 +13,7 @@
           "Avalonia.Diagnostics": "11.2.1",
           "Avalonia.Fonts.Inter": "11.2.1",
           "Avalonia.Themes.Fluent": "11.2.1",
+          "Calculation": "1.0.0",
           "CommunityToolkit.Mvvm": "8.2.1",
           "Microsoft.EntityFrameworkCore": "9.0.2",
           "Microsoft.EntityFrameworkCore.Design": "9.0.2",
@@ -1002,7 +1003,14 @@
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
-      "System.Text.Json/9.0.2": {},
+      "System.Text.Json/9.0.2": {
+        "runtime": {
+          "lib/net9.0/System.Text.Json.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
       "System.Threading.Channels/7.0.0": {},
       "Tmds.DBus.Protocol/0.20.0": {
         "dependencies": {
@@ -1012,6 +1020,14 @@
           "lib/net8.0/Tmds.DBus.Protocol.dll": {
             "assemblyVersion": "0.20.0.0",
             "fileVersion": "0.20.0.0"
+          }
+        }
+      },
+      "Calculation/1.0.0": {
+        "runtime": {
+          "Calculation.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -1519,6 +1535,11 @@
       "sha512": "sha512-2gkt2kuYPhDKd8gtl34jZSJOnn4nRJfFngCDcTZT/uySbK++ua0YQx2418l9Rn1Y4dE5XNq6zG9ZsE5ltLlNNw==",
       "path": "tmds.dbus.protocol/0.20.0",
       "hashPath": "tmds.dbus.protocol.0.20.0.nupkg.sha512"
+    },
+    "Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

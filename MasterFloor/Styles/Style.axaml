@@ -5,6 +5,11 @@
     </Border>
   </Design.PreviewWith>
 
+	<Style Selector="TextBlock.H1">
+		<Setter Property="FontFamily" Value="Segoe UI"/>
+		<Setter Property="FontSize" Value="18"/>
+		<Setter Property="FontWeight" Value="Bold"/>
+	</Style>
 	<Style Selector="TextBlock">
 		<Setter Property="FontFamily" Value="Segoe UI"/>
 	</Style>
