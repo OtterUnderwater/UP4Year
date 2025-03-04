@@ -8,12 +8,16 @@
 			 x:DataType="vm:PartnersViewModel">
 
 	<Grid RowDefinitions="60, *">
-		<StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-			<Image Width="30" Height="30" Source="/Assets/logo.png" VerticalAlignment="Center"/>
-			<TextBlock Text="Cписок партнеров" Margin="10 0 0 0" Classes="H1" VerticalAlignment="Center"/>
-			<Button Content="Добавить партнера" Command="{Binding GoToAddPartnerCommand}" Margin="10 0 0 0" VerticalAlignment="Center" HorizontalAlignment="Right"/>
-		</StackPanel>	
-		<ListBox ItemsSource="{Binding Partners}" Grid.Row="1" SelectedItem="{Binding SelectedPartner}">
+		<Grid Grid.Row="0">
+			<StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+				<Image Width="30" Height="30" Source="/Assets/logo.png" VerticalAlignment="Center"/>
+				<TextBlock Grid.Column="1" Text="Cписок партнеров"  Margin="10 0 0 0" Classes="H1" VerticalAlignment="Center"/>
+			</StackPanel>
+			<Button Content="Добавить партнера" Command="{Binding GoAddPartnerCommand}" Margin="10 0 0 0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+		</Grid>
+		<TextBlock  Grid.Row="1" Text="Партнеров нет" IsVisible="{Binding !Partners.Count}" HorizontalAlignment="Center"/>	
+		<ScrollViewer Grid.Row="1" IsVisible="{Binding Partners.Count}">	
+		<ListBox ItemsSource="{Binding Partners}" SelectedItem="{Binding SelectedPartner}">
 			<ListBox.ItemTemplate>
 				<DataTemplate>
 					<Border BorderThickness="1" BorderBrush="Black"
@@ -32,12 +36,17 @@
 								<TextBlock Text="{Binding Phone, TargetNullValue='Телефон не указан'}"/>
 								<TextBlock Text="{Binding Rating, StringFormat='Рейтинг: {0}', TargetNullValue='Рейтинг отсутствует'}"/>
 							</StackPanel>
-							<TextBlock Grid.Column="1" Text="{Binding Discount, StringFormat='{}{0}%'}" FontSize="18" Margin="0 0 20 0"/>
+							<TextBlock Grid.Column="1" Text="{Binding Discount, StringFormat='{}{0}%'}" FontSize="18" HorizontalAlignment="Right"/>				
+							<Button Grid.Column="1" Content="История реализации продукции"
+									Command="{Binding $parent[UserControl]((vm:PartnersViewModel)DataContext).GoHistoryCommand}"
+									CommandParameter="{Binding}"
+									VerticalAlignment="Bottom" HorizontalAlignment="Right"/>		
 						</Grid>
 					</Border>
 				</DataTemplate>
 			</ListBox.ItemTemplate>
 		</ListBox>
-		
-	</Grid>
+		</ScrollViewer>
+</Grid>
+	
 </UserControl>

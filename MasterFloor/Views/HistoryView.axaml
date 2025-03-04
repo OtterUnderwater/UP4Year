@@ -1,0 +1,48 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="MasterFloor.Views.HistoryView"
+			 xmlns:vm="using:MasterFloor.ViewModels"
+			 x:DataType="vm:HistoryViewModel">
+
+	<Grid RowDefinitions="60, *">
+		<Grid Grid.Row="0">
+			<StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+				<Image Width="30" Height="30" Source="/Assets/logo.png" VerticalAlignment="Center"/>
+				<TextBlock Grid.Column="1" Text="{Binding Heading}"  Margin="10 0 0 0" Classes="H1" VerticalAlignment="Center"/>
+			</StackPanel>
+			<Button Content="Назад" Command="{Binding GoBackCommand}" Margin="10 0 0 0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+		</Grid>
+		<TextBlock  Grid.Row="1" Text="История отсутствует" IsVisible="{Binding !Products.Count}" HorizontalAlignment="Center"/>
+		<ScrollViewer Grid.Row="1" IsVisible="{Binding Products.Count}">
+		<ListBox ItemsSource="{Binding Products}">
+				<ListBox.ItemTemplate>
+					<DataTemplate>
+						<Border BorderThickness="1" BorderBrush="Black"
+								CornerRadius="5" Padding="10">
+							<Grid ColumnDefinitions="*, auto">
+								<StackPanel Grid.Column="0">
+									<TextBlock>
+										<TextBlock.Inlines>
+											<Run Text="Продукция:" FontWeight="Bold"/>
+											<Run Text="{Binding IdProductNavigation.Title}"/>
+										</TextBlock.Inlines>
+									</TextBlock>
+									<TextBlock>
+										<TextBlock.Inlines>
+											<Run Text="Дата реализации:" FontWeight="Bold"/>
+											<Run Text="{Binding SaleDate}"/>
+										</TextBlock.Inlines>
+									</TextBlock>
+								</StackPanel>
+								<TextBlock Grid.Column="1" Text="{Binding CountProducts, StringFormat='{}{0} шт.'}"/>
+							</Grid>
+						</Border>
+					</DataTemplate>
+				</ListBox.ItemTemplate>
+			</ListBox>
+		</ScrollViewer>
+	</Grid>
+</UserControl>

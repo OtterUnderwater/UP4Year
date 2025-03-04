@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\views\\editaddpartnerview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\views\\editaddpartnerview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\viewmodels\\editaddpartnerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\editaddpartnerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\views\\historyview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\views\\historyview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditAddPartnerView.axaml",
-              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\EditAddPartnerView.axaml",
-              "RelativeDocumentMoniker": "MasterFloor\\Views\\EditAddPartnerView.axaml",
-              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\EditAddPartnerView.axaml",
-              "RelativeToolTip": "MasterFloor\\Views\\EditAddPartnerView.axaml",
+              "DocumentIndex": 1,
+              "Title": "HistoryView.axaml",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\HistoryView.axaml",
+              "RelativeDocumentMoniker": "MasterFloor\\Views\\HistoryView.axaml",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\HistoryView.axaml",
+              "RelativeToolTip": "MasterFloor\\Views\\HistoryView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T17:06:15.55Z",
+              "WhenOpened": "2025-03-04T17:14:44.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PartnersView.axaml",
               "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\PartnersView.axaml",
               "RelativeDocumentMoniker": "MasterFloor\\Views\\PartnersView.axaml",
               "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\PartnersView.axaml",
               "RelativeToolTip": "MasterFloor\\Views\\PartnersView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T17:06:14.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditAddPartnerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
-              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
-              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
-              "RelativeToolTip": "MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:59:01.387Z",
+              "WhenOpened": "2025-03-04T17:08:36.349Z",
               "EditorCaption": ""
             }
           ]

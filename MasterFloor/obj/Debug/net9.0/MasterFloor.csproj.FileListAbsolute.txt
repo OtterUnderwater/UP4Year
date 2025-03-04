@@ -329,3 +329,5 @@ C:\Users\Aziraphale\Desktop\UP4Year\MasterFloor\obj\Debug\net9.0\refint\Avalonia
 C:\Users\Aziraphale\Desktop\UP4Year\MasterFloor\obj\Debug\net9.0\MasterFl.AFE6D08C.Up2Date
 C:\Users\Aziraphale\Desktop\UP4Year\MasterFloor\obj\Debug\net9.0\MasterFloor.genruntimeconfig.cache
 C:\Users\Aziraphale\Desktop\UP4Year\MasterFloor\obj\Debug\net9.0\ref\MasterFloor.dll
+C:\Users\Aziraphale\Desktop\UP4Year\MasterFloor\bin\Debug\net9.0\DialogHost.Avalonia.dll
+C:\Users\Aziraphale\Desktop\UP4Year\MasterFloor\bin\Debug\net9.0\MsBox.Avalonia.dll
