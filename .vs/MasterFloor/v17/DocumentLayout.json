@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C70449D9-DB95-4366-B75E-C91AAA6C1F3C}|UnitTests\\UnitTests.csproj|c:\\users\\aziraphale\\desktop\\up4year\\unittests\\calculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70449D9-DB95-4366-B75E-C91AAA6C1F3C}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\calculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78918D4-69FF-4777-9F5C-D0B412A2E6C8}|Calculation\\Calculation.csproj|c:\\users\\aziraphale\\desktop\\up4year\\calculation\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78918D4-69FF-4777-9F5C-D0B412A2E6C8}|Calculation\\Calculation.csproj|solutionrelative:calculation\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\viewmodels\\editaddpartnerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\editaddpartnerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\viewmodels\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\viewmodels\\partnersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\viewmodels\\partnersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|c:\\users\\aziraphale\\desktop\\up4year\\masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{77732076-BD44-4BF2-A2A6-BC3AD38137E5}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\views\\partnersview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
@@ -18,23 +38,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\UnitTests\\CalculationTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\CalculationTests.cs",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\UnitTests\\CalculationTests.cs",
+              "RelativeToolTip": "UnitTests\\CalculationTests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwIIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:34:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calc.cs",
+              "RelativeDocumentMoniker": "Calculation\\Calc.cs",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\Calculation\\Calc.cs",
+              "RelativeToolTip": "Calculation\\Calc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:25:30.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\HistoryViewModel.cs",
+              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\HistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\HistoryViewModel.cs",
+              "RelativeToolTip": "MasterFloor\\ViewModels\\HistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:00:51.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditAddPartnerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
+              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
+              "RelativeToolTip": "MasterFloor\\ViewModels\\EditAddPartnerViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:25:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartnersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "RelativeDocumentMoniker": "MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "RelativeToolTip": "MasterFloor\\ViewModels\\PartnersViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:06:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HistoryView.axaml",
               "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\HistoryView.axaml",
               "RelativeDocumentMoniker": "MasterFloor\\Views\\HistoryView.axaml",
               "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\HistoryView.axaml",
               "RelativeToolTip": "MasterFloor\\Views\\HistoryView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-04T17:14:44.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:14:44.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PartnersView.axaml",
               "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\UP4Year\\MasterFloor\\Views\\PartnersView.axaml",
               "RelativeDocumentMoniker": "MasterFloor\\Views\\PartnersView.axaml",
